@@ -1,0 +1,6 @@
+{
+  "name": "Sweetlova Bakery",
+  "description": "Premium artisanal bakery website with modern aesthetic design, interactive products, virtual cart, promotions, and immersive pastel color scheme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
